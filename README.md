@@ -4,7 +4,10 @@
 ```cmd
 pip install flask
 ```
-
+- Clone Repository
+```cmd
+git clone https://github.com/aditya3492gupta/FLask-API.git
+```
 - Run the app
 ```cmd
 python app.py
